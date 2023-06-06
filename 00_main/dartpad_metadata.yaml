@@ -1,0 +1,4 @@
+name: Basic Main Function
+mode: flutter
+files:
+  - name: 00_main.dart
